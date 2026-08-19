@@ -1,0 +1,4 @@
+model,participants,g12c_participants,selected_genes,higher_in_g12c,lower_in_g12c
+Primary adjusted,388,52,651,205,446
+Ever smokers only,326,51,525,166,359
+"Adjusted for TP53, STK11, and KEAP1",388,52,325,92,233

@@ -1,0 +1,3 @@
+sensitivity_model,spearman_lfc_correlation,selected_gene_overlap,direction_agreement_in_overlap
+Ever smokers only,0.9853330494013117,497,1
+"Adjusted for TP53, STK11, and KEAP1",0.881525468097191,244,1

@@ -1,0 +1,3 @@
+kras_group,participants,median_library_size,median_detected_genes,median_mitochondrial_percent,flagged_samples
+KRAS_G12C,54,52308798,20308.5,3.6462561265768985,2
+KRAS_wild_type,367,43537351,20544,4.246863689717381,18
